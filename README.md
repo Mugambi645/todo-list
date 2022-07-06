@@ -6,7 +6,7 @@
 
 ## Introduction
  This is todolist app.It uses golang as its backend and react.js as client.
-## Language(s) And Technologies used
+## Technologies
 - Golang
 - Reactjs
 - MongoDB

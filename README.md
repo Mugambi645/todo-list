@@ -1,8 +1,8 @@
 # todo-list
 ## Screenshots
 ![todo.png](todo.png/)
-![todo.png](todo1.png/)
-![todo.png](todo2.png/)
+![todo1.png](todo1.png/)
+![todo2.png](todo2.png/)
 
 ## Introduction
  This is todolist app.It uses golang as its backend and react.js as client.
@@ -28,9 +28,9 @@
 - Create collection and database
 - Navigate [go-server] folder eg cd /Documents/golang-todo/go-server && code .
 - touch .env
-  DB_URI = <Your mongodb url i.e local or atlas>
-  DB_NAME = <Your database name>
-  DB_COLLECTION_NAME = <Your collection name>
+- DB_URI = <Your mongodb url i.e local or atlas>
+- DB_NAME = <Your database name>
+- DB_COLLECTION_NAME = <Your collection name>
 
 ## Development
 
